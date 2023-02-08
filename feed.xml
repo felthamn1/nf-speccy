@@ -1,30 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Neil&#x27;s Speccy Site</title>
-    <link href="https://felthamn1.github.io/nf-speccy/feed.xml" rel="self" />
-    <link href="https://felthamn1.github.io/nf-speccy" />
-    <updated>2023-02-08T20:54:55+00:00</updated>
+    <link href="https://felthamn1.github.io/nf-speccy/index.html/feed.xml" rel="self" />
+    <link href="https://felthamn1.github.io/nf-speccy/index.html" />
+    <updated>2023-02-08T21:22:28+00:00</updated>
     <author>
         <name>Neil Feltham</name>
     </author>
-    <id>https://felthamn1.github.io/nf-speccy</id>
+    <id>https://felthamn1.github.io/nf-speccy/index.html</id>
 
     <entry>
         <title>Neil&#x27;s Speccy Site</title>
         <author>
             <name>Neil Feltham</name>
         </author>
-        <link href="https://felthamn1.github.io/nf-speccy/neils-speccy-site.html"/>
-        <id>https://felthamn1.github.io/nf-speccy/neils-speccy-site.html</id>
+        <link href="https://felthamn1.github.io/nf-speccy/index.html/neils-speccy-site.html"/>
+        <id>https://felthamn1.github.io/nf-speccy/index.html/neils-speccy-site.html</id>
+        <media:content url="https://felthamn1.github.io/nf-speccy/index.html/media/posts/1/Spectrum-1.jpg" medium="image" />
 
-        <updated>2023-02-08T20:54:55+00:00</updated>
+        <updated>2023-02-08T21:22:28+00:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://felthamn1.github.io/nf-speccy/index.html/media/posts/1/Spectrum-1.jpg" alt="" />
                     The ZX Spectrum is one of the most iconic computers in the history of computing. It was designed by a team led by Sir Clive Sinclair, who founded Sinclair Research Ltd in 1979 to develop and market his products. The ZX Spectrum was released in&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://felthamn1.github.io/nf-speccy/index.html/media/posts/1/Spectrum-1.jpg" class="type:primaryImage" alt="" /></p>
                 <p>The ZX Spectrum is one of the most iconic computers in the history of computing. It was designed by a team led by Sir Clive Sinclair, who founded Sinclair Research Ltd in 1979 to develop and market his products. The ZX Spectrum was released in 1982 and became an instant hit, selling over 5 million units worldwide.</p>
 <p>The success of the ZX Spectrum sparked a rivalry between Sinclair Research and Acorn Computers, which released their own home computer - the BBC Micro - in 1981. This rivalry intensified when Amstrad entered the market with their own version of the ZX Spectrum in 1984.</p>
 <p>Nevertheless, we owe a lot to Sir Clive Sinclair and his team for their pioneering work on the ZX Spectrum - without them, we wouldn’t have had such an iconic piece of technology!</p>
