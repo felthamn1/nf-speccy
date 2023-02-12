@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /
+Disallow:
+Sitemap: https://felthamn1.github.io/nf-speccy/index.html/sitemap.xml
